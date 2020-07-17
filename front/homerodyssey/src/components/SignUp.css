@@ -1,0 +1,10 @@
+.formulaire {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulaire input {
+    margin-top: 25px;
+}
